@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2500a4db-1a8e-4785-a29c-2cdd200e71ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UYLsYywkmzGnOos8qXSVn3Rh4A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.SimpleDateFormatDemo">
+    <configuration name="AddClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rmi.AddClient" />
+      <module name="REGandReflexandTextandDateTime" />
+      <option name="PROGRAM_PARAMETERS" value="127.0.0.1 8 9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rmi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rmi.AddServer" />
+      <module name="REGandReflexandTextandDateTime" />
+      <option name="PROGRAM_PARAMETERS" value="-Djava.rmi.server.codebase=localhost/AddServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rmi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateFormatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text.DateFormatDemo" />
+      <module name="REGandReflexandTextandDateTime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reflect.ReflectionDemo2" />
+      <module name="REGandReflexandTextandDateTime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleDateFormatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text.SimpleDateFormatDemo" />
+      <module name="REGandReflexandTextandDateTime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AddClient" />
+      <item itemvalue="Application.AddServer" />
+      <item itemvalue="Application.ReflectionDemo2" />
+      <item itemvalue="Application.DateFormatDemo" />
+      <item itemvalue="Application.SimpleDateFormatDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleDateFormatDemo" />
+        <item itemvalue="Application.DateFormatDemo" />
+        <item itemvalue="Application.AddClient" />
+        <item itemvalue="Application.AddServer" />
+        <item itemvalue="Application.ReflectionDemo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575547604673">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1575547604673" />
+    <state x="765" y="243" key="#com.intellij.ide.util.MemberChooser" timestamp="1575545048644">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="243" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1575545048644" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1575553888023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1575553888023" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1575553888023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1575553888023" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1575553888023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1575553888023" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1575553888023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1575553888023" />
+  </component>
+</project>
