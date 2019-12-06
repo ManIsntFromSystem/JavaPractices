@@ -28,7 +28,7 @@
       <recent name="E:\AndroidStudioProjects\MySwing" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JRadioButtonDemo">
+  <component name="RunManager" selected="Application.JTabbedPaneDemo">
     <configuration name="JButtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="partTwo.JButtonDemo" />
       <module name="MySwing" />
@@ -68,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JTextFieldDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="partTwo.JTextFieldDemo" />
+    <configuration name="JTabbedPaneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="partTwo.JTabbedPaneDemo" />
       <module name="MySwing" />
       <extension name="coverage">
         <pattern>
@@ -96,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JTabbedPaneDemo" />
         <item itemvalue="Application.JRadioButtonDemo" />
         <item itemvalue="Application.JCheckBoxDemo" />
         <item itemvalue="Application.JToggleButtonDemo" />
         <item itemvalue="Application.JButtonDemo" />
-        <item itemvalue="Application.JTextFieldDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -117,25 +117,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="255" width="390" height="649" key="#com.intellij.ide.util.MemberChooser" timestamp="1575639004544">
+    <state x="765" y="255" width="390" height="649" key="#com.intellij.ide.util.MemberChooser" timestamp="1575640199240">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="765" y="255" width="390" height="649" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1575639004544" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1575639262612">
+    <state x="765" y="255" width="390" height="649" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1575640199240" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1575640934310">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1575639262612" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1575639262612">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1575640934310" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1575640934310">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1575639262612" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1575639262612">
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1575640934310" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1575640934310">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1575639262612" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1575639262612">
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1575640934310" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1575640934310">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1575639262612" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1575640934310" />
   </component>
 </project>
