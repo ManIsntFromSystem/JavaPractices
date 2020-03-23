@@ -10,8 +10,10 @@ public class JTabbedPaneDemo  {
         jfrm.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jfrm.setSize(400, 500);
 
+        ImageIcon icon = new ImageIcon("creative.png");
+
         JTabbedPane jtp = new JTabbedPane();
-        jtp.addTab("Cities", new CitiesPanel());
+        jtp.addTab("Cities", icon, new CitiesPanel());
         jtp.addTab("Colors", new ColorsPanel());
         jtp.addTab("Flavors", new FlavorsPanel());
         jfrm.add(jtp);
@@ -35,16 +37,16 @@ public class JTabbedPaneDemo  {
         }
     }
 
-    private static class ColorsPanel extends JPanel {
-        public ColorsPanel() {
-            JCheckBox cb11 = new JCheckBox("Red");
-            add(cb11);
-            JCheckBox cb2 = new JCheckBox("Green");
-            add(cb2);
-            JCheckBox cb3 = new JCheckBox("Yellow");
-            add(cb3);
+        private static class ColorsPanel extends JPanel {
+            public ColorsPanel() {
+                JCheckBox cb11 = new JCheckBox("Red");
+                add(cb11);
+                JCheckBox cb2 = new JCheckBox("Green");
+                add(cb2);
+                JCheckBox cb3 = new JCheckBox("Yellow");
+                add(cb3);
+            }
         }
-    }
 
     private static class FlavorsPanel extends JPanel {
         public FlavorsPanel() {

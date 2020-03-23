@@ -76,7 +76,7 @@ public class MenuDemoTrue implements ActionListener {
             super(name, image);
 
             putValue(ACCELERATOR_KEY, KeyStroke.getKeyStroke(accel, InputEvent.CTRL_DOWN_MASK));
-            putValue(MNEMONIC_KEY, new Integer(mnem));
+            putValue(MNEMONIC_KEY, mnem);
             putValue(SHORT_DESCRIPTION, tTip);
         }
 
@@ -206,7 +206,6 @@ public class MenuDemoTrue implements ActionListener {
     }
 
     private void makeToolBar() {
-
 
         JButton jbtnSet = new JButton(setAct);
         JButton jbtnClear = new JButton(clearAct);
